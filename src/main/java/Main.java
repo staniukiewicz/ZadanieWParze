@@ -4,8 +4,8 @@ public class Main {
         System.out.println("coś inego niż tamten");
         System.out.println("Praca w grupie");
 
-        for (int i = 0; i <= 100; i++) {
-            System.out.println("Wartość iteratora to " + i);
+        for (int i = 0; i <= 746; i++) {
+            System.out.println("Dopisuje Michał" + i);
 
         }
         System.out.println();
