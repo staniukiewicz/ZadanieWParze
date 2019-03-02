@@ -13,5 +13,7 @@ public class Main {
         for (int i = 100; i >= 0; --i) {
             System.out.println("Wartość iteratora to " + i);
         }
+
+        System.out.println("cośtam");
     }
 }
