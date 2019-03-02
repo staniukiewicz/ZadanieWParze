@@ -11,8 +11,8 @@ public class Main {
         }
         System.out.println();
 
-        for (int i = 100; i >= 0; --i) {
-            System.out.println("Wartość iteratora to " + i);
+        for (int i = 10; i >= 0; --i) {
+            System.out.println("I tu też nagrzebałem" + i);
         }
 
         System.out.println("cośtam");
