@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Praca w grupie");
 
-        for (int i = 0; i <= 100; i++) {
-            System.out.println("Wartość iteratora to " + i);
+        for (int i = 0; i <= 746; i++) {
+            System.out.println("Dopisuje Michał" + i);
 
         }
         System.out.println();
